@@ -1,5 +1,10 @@
+import React from "react";
+
+
 const Workout = () => {
-  return <div>Workout</div>;
+  return <>
+    Workout
+  </>;
 };
 
 export default Workout;
