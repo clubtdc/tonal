@@ -52,7 +52,7 @@ const NavBar = () => {
                 ))}
             </div>
             <div>
-                <button className='px-5 py-2 bg-[#11ddc4] font-semibold border border-[#11ddc4] text-black hover:text-white  hover:bg-transparent'>Pricing</button>
+                <button className='px-5 py-2 bg-[#11ddc4] font-semibold border border-[#11ddc4] text-black hover:text-white  hover:bg-transparent mr-3'>Pricing</button>
             </div>
         </nav>
     )
